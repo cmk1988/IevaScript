@@ -1,5 +1,5 @@
 ﻿object str = "";
-#call_Script_2 : str = str;
+#call_Script_2 = str;
 #call_Script_3 : str;
 Console.WriteLine("\nEnd");
 Console.ReadLine();
