@@ -1,0 +1,3 @@
+﻿#result_System.String;
+string str = "Hello World\n";
+return str;

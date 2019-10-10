@@ -1,0 +1,2 @@
+﻿string str = (string)parameter;
+Console.WriteLine(str);

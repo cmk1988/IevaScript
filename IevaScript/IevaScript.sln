@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IevaScript_Framework", "IevaScript_Framework\IevaScript_Framework.csproj", "{1F15B1DF-12F7-4C1B-87D8-3E20AD658F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IevaScript_Example", "IevaScript_Executer\IevaScript_Example.csproj", "{CECD143C-68DE-4925-9179-A638909EA3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F15B1DF-12F7-4C1B-87D8-3E20AD658F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F15B1DF-12F7-4C1B-87D8-3E20AD658F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F15B1DF-12F7-4C1B-87D8-3E20AD658F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F15B1DF-12F7-4C1B-87D8-3E20AD658F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECD143C-68DE-4925-9179-A638909EA3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECD143C-68DE-4925-9179-A638909EA3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECD143C-68DE-4925-9179-A638909EA3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECD143C-68DE-4925-9179-A638909EA3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57B15802-4397-48BC-A4F7-A6754019B057}
+	EndGlobalSection
+EndGlobal
