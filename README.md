@@ -1,6 +1,9 @@
 # IevaScript
 IevaScript is a script with C# syntax to write small scripts and combine them.
 
+### Pradigm
+Imperative, structured
+
 ### History
 
 10.10.2019 - First implementation pushed
