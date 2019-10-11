@@ -1,9 +1,19 @@
 # IevaScript
 IevaScript is a script with C# syntax to write small scripts and combine them.
 
+### History
+
 10.10.2019 - First implementation pushed
 
+
+### Syntax
+
+IevaScript is based on C#, this means you can use C# syntax.
+
 Calls of other scripts will look like this: <br> #call_NameOfCalledScript : ParameterToPassToScript = VariableToStoreResultFromScript ;
+
+
+### Test project
 
 See IevaScript_Example.csproj for examples.
 
