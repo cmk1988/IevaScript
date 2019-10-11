@@ -12,6 +12,9 @@ IevaScript is based on C#, this means you can use C# syntax.
 
 Calls of other scripts will look like this: <br> #call_NameOfCalledScript : ParameterToPassToScript = VariableToStoreResultFromScript ;
 
+To set return type use <br> #result_Namespace.DataType; <br>
+for example: #result_System.String;
+
 
 ### Test project
 
